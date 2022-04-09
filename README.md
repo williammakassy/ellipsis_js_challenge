@@ -2,7 +2,7 @@
 
 This project was developed by William David Makassy.
 
-## Available Scripts
+## SETUP INSTRUCTIONS
 
 In the project directory, you can run:
 
