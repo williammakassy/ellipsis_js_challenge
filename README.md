@@ -1,6 +1,6 @@
 # ELLIPSIS_JS_CHALLENGE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed by William David Makassy.
 
 ## Available Scripts
 
