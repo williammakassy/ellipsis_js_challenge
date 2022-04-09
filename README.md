@@ -15,3 +15,20 @@ This project was developed by William David Makassy.
 
 
 ## TECHNICAL AND ARCHITECTURAL CHOICES
+
+1. I faced some errors when I was fetching data from the json file you provided, so I tried different approaches so as to solve the errors but I ended up by the last approach I performed; When I looked at the json file I saw at the beginning there is a curly bracket, followed by string *"Total"* which indicates the total of entries, and last the string *"entries"* so I tried the delete all of them and the script started from the square brackets, after that I tried to fetch the data and things goes fine.
+2. So the file did not follow the right syntax for the json, that why some errors occurs
+
+
+## IMPROVEMENTS TO BE ADDED
+
+1. There are some improvement I have to make them, which are creating the loading and error states of fetching the JSON feed, Here I failed to create the loading page state and errro page state which helps to show if the data are being fetched or some errors occurs, but If I can get more time, I'm able to accomplish the task.
+
+
+## WHEN MORE TIME IS ALLOCATED
+
+1. If there's more time allocated, I'll create a search form so as the client can search for series and movies he/she wants, and the app will return the results for the input which has been inserted.
+2. Also instead of output few series and movies, I will pagination where all the series and movies will be displayed on the screen.
+3. Then I will create an admin panel which will enable app admin to create,update, and delete series and movies.
+4. Also I can add some activity like users will be able to download the series or movie they want, but to do so there must be some issues of users to pay or create an account for him/her to download or watch the series and movie.
+5. Example how *Netflix* works for user to watch or download the movie he/she will create an account and pay for the subscription.
