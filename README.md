@@ -4,7 +4,7 @@ This project was developed by William David Makassy.
 
 ## SETUP INSTRUCTIONS
 
-First you have to download the project from the repository, the project name is *ellipsis_js__challenge*
+1. First you have to download the project from the repository, the project name is *ellipsis_js__challenge*
 
 In the project directory, you can run:
 
