@@ -4,6 +4,8 @@ This project was developed by William David Makassy.
 
 ## SETUP INSTRUCTIONS
 
+First you have to download the project from the repository,
+
 In the project directory, you can run:
 
 ### `npm start`
